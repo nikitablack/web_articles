@@ -5,3 +5,6 @@
 # GIT
 
 1. [Машина времени в git](https://habrahabr.ru/post/157175/) - статья по использованию `git checkout` и `git reset`.
+
+# C++
+1. [Передача std::unique_ptr by rvalue reference](https://twitter.com/lefticus/status/828652704805289985) - интересный quiz.
