@@ -8,3 +8,4 @@
 
 # C++
 1. [Передача std::unique_ptr by rvalue reference](https://twitter.com/lefticus/status/828652704805289985) - интересный quiz.
+2. [Implementing State Machines with std::variant](http://khuttun.github.io/2017/02/04/implementing-state-machines-with-std-variant.html) - пример использования std::variant.
