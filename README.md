@@ -1,6 +1,7 @@
 # GRAPHICS
 
 1. [Screen Space Reflections in Killing Floor 2](https://sakibsaikia.github.io/2016/12/26/Screen-Space-Reflection-in-Killing-Floor-2.html) - годная статья по screen space reflections.
+2. [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/) - обзор тесселяции, факторов и т.п.
 
 # GIT
 
