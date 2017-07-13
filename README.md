@@ -17,4 +17,4 @@
 
 # MATH
 
-1. [Кривые Безье](https://pomax.github.io/bezierinfo/) - енига по кривым Безьею
+1. [Кривые Безье](https://pomax.github.io/bezierinfo/) - онлайн-книга по кривым Безье.
