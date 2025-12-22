@@ -18,3 +18,7 @@
 # MATH
 
 1. [Кривые Безье](https://pomax.github.io/bezierinfo/) - онлайн-книга по кривым Безье.
+
+# RDMA
+1. https://medium.com/@datenlord/the-evolution-and-implementation-of-gpudirect-rdma-19751f7b9413
+   History and evolution of RDMA technology. First the author tells how NVidia implemented vendor-specific solution GPU Direct RDM, then AMD did it's own implementation with ROCnRDMA, and finally a cross-vendor linux solution `dma-buf`.
