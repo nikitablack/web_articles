@@ -22,3 +22,7 @@
 # RDMA
 1. https://medium.com/@datenlord/the-evolution-and-implementation-of-gpudirect-rdma-19751f7b9413
    History and evolution of RDMA technology. First the author tells how NVidia implemented vendor-specific solution GPU Direct RDM, then AMD did it's own implementation with ROCnRDMA, and finally a cross-vendor linux solution `dma-buf`.
+
+# GPU
+1. https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md - GPU Memory Fundamentals.
+   Good example of how to compute arithmetic intensity.
