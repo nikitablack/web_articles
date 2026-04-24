@@ -20,9 +20,9 @@
 1. [Кривые Безье](https://pomax.github.io/bezierinfo/) - онлайн-книга по кривым Безье.
 
 # RDMA
-1. https://medium.com/@datenlord/the-evolution-and-implementation-of-gpudirect-rdma-19751f7b9413
-   History and evolution of RDMA technology. First the author tells how NVidia implemented vendor-specific solution GPU Direct RDM, then AMD did it's own implementation with ROCnRDMA, and finally a cross-vendor linux solution `dma-buf`.
+1. [History and evolution of RDMA technology](https://medium.com/@datenlord/the-evolution-and-implementation-of-gpudirect-rdma-19751f7b9413) - first the author tells how NVidia implemented vendor-specific solution GPU Direct RDM, then AMD did it's own implementation with ROCnRDMA, and finally a cross-vendor linux solution `dma-buf`.
 
 # GPU
-1. https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md - GPU Memory Fundamentals.
-   Good example of how to compute arithmetic intensity.
+1. [GPU Memory Fundamentals](https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md) - good example of how to compute arithmetic intensity.
+2. [From SIMT to Systolic: A Foundation for GPU and TPU Architecture](https://x.com/MainzOnX/status/2044462083010662771) - epic comparison of Ampere, Hopper, Blackwell with Goggle's TPU, first part.
+3. [Part 2: From SIMT to Systolic A Kernel Author's Field Report](https://x.com/MainzOnX/status/2044804854020006223) - second part.
