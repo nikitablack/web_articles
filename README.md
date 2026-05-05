@@ -26,3 +26,6 @@
 1. [GPU Memory Fundamentals](https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md) - good example of how to compute arithmetic intensity.
 2. [From SIMT to Systolic: A Foundation for GPU and TPU Architecture](https://x.com/MainzOnX/status/2044462083010662771) - epic comparison of Ampere, Hopper, Blackwell with Goggle's TPU, first part.
 3. [Part 2: From SIMT to Systolic A Kernel Author's Field Report](https://x.com/MainzOnX/status/2044804854020006223) - second part.
+
+# AI
+1 [Quantization from the ground up](https://ngrok.com/blog/quantization) - good article explaining different quantization methods and how they affect performance and accuracy.
